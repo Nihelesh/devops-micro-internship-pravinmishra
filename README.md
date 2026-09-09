@@ -9,11 +9,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Nihelesh M U |
+| **LinkedIn** | [Nihelesh](www.linkedin.com/in/niheleshmu) |
+| **Location** | Tamil Nadu, India |
+| **Background** | Computer Science and Engineering student |
+| **Goal** | Become profession Sofware Development Engineer |
 
 ---
 

@@ -1,6 +1,6 @@
-# Week 00 - Internet and Networking
+# Week 0 - Internet and Networking
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) Campus with Agentic AI
 
 ---
 
@@ -21,20 +21,11 @@ Take a screenshot of your interaction showing:
 * Your detailed prompt (with clear expectations)
 * ChatGPT's simplified response with an example
 
-## Screenshot
-
-Save your screenshot in the `screenshots` folder and update the file name below.
-
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
-
----
+![Task 1 Screenshot](screenshots/Task1.png)
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned how to write clear and detailed propmt by specifying my requirements, preferred explanation level, examples and expected format.
 
 ---
 
@@ -59,7 +50,13 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When an overseas user attempts to access the online bookstore epicreads.com in Finland, multiple networking concepts come together to make the website appear on the screen. Firstly, packet switching splits the data into packets that are sent through different routes in the transmission system and then reassembled. Each end point that is connected to the internet has a unique IP address, as used in the communication between the user’s machine and the web server.
+
+
+The Transmission Control Protocol/Internet Protocol (TCP/IP) is a standard suite of communication protocols that enable internet connections. It is comprised of the Internet Protocol (IP) which is responsible for assigning the addresses and routing the data packets and the Transmission Control Protocol (TCP). TCP is the set of rules used in the TCP/IP model that ensures reliable data delivery.
+
+
+Moreover, Hyper Text Transfer Protocol (HTTP) and Hyper Text Transfer Protocol Secure (HTTPS) are used to communicate between web browsers and servers. HTTP is used for transmitting data between websites and web servers, whereas HTTPS is a secure version of HTTP that uses encryption to protect sensitive data such as passwords and credit card information during online transactions.
 
 ---
 
@@ -91,7 +88,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/Task3.jpeg)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +99,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML, CSS, JS
+* React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Java with SpringBoot
+* Node.js with Express
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MySQL
 
 ---
 
@@ -142,7 +139,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) serves as an Internet's phone book. It translates domain names, like epicreads.com, into IP addresses that are used by computers to identify servers on the Web. In order to direct epicreads.com to the given IP address 52.172.142.222, an A record should be used because an A record maps the domain name to the IPv4 address. Therefore, when a user types in epicreads.com, a DNS lookup will be able to route them to the EpicReads server at 52.172.142.222.
 
 ---
 
@@ -176,12 +173,7 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
+![VS Code Setup Screenshot](screenshots/Task5.png)
 
 ---
 
@@ -209,7 +201,7 @@ Clearly structure your post into the following sections:
 
 Add the following credit note at the end of your post:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Nihelesh.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus
 
 ---
 
@@ -225,9 +217,59 @@ Add your URL here...
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+🚀 DevOps Micro Internship (DMI) With Agentic AI — Cohort #3 — Week 0 [Getting Started]
 
-Add your post content here...
+
+
+I am thrilled to begin my DevOps Micro Internship (DMI) with Agentic AI — Cohort #3, and I am looking forward to learning fundamentals about Internet, networking, application architecture, and development environment setup this week!
+
+
+
+🤖 ChatGPT
+
+
+
+I learned how to frame my request to ChatGPT to get the desired information. I learned that it is important to give a clear description of my request, specify what types of explanation/ examples are needed, and what format the response should be provided in.
+
+
+
+🌐 Internet & Networking
+
+
+
+I learned about packet switching, IP Addresses, TCP/IP, and HTTP/HTTPS (Hyper Text Transfer Protocol Secure). I learned that data is packet-switched over the internet using IP (Internet Protocol) addresses which can be IPv4 or IPv6. The data packets are broken down using the TCP (Transmission Control Protocol) and the packets are reassembled at their destination using IP addresses. The packets are then passed from one browser to the web server using HTTP/HTTPS (the secure version of HTTP). I learned that web browsers and web servers communicate over the HTTP/HTTPS protocol where Hypertext Markup Language (HTML) is transferred.
+
+
+
+🏗️ App Architecture
+
+
+
+I learned about two-tier and three-tier application architecture. The two-tier application connects directly to the database while the three-tier application connects through the front-end and back-end. The three-tier application is also easier to maintain and manage
+
+
+
+🌍 DNS
+
+
+
+I learned about Domain Name System (DNS) and how domain names resolve to IP Addresses. For Example, the A record epicreads.com resolves to an IPv4 address 52.172.142.222.
+
+
+
+💻 VS Code Setup
+
+
+
+I learned how to set up the development environment (VS Code).
+
+
+
+This week provided me with a basic knowledge of how the application connects with the Internet and how they are set up. I look forward to learning more and enhancing my DevOps skills. 🚀
+
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort #3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-
 
 ---
 
@@ -235,19 +277,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand the basic concepts of networking, DNS, and application architecture. Using simple real-life examples and ChatGPT's explanations helped me understand these concepts more clearly.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The most difficult part was understanding how different networking concepts work together, especially packet switching, TCP/IP, HTTP/HTTPS, and DNS. Connecting these individual concepts to a real-world application required some additional thinking.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will focus on understanding DevOps concepts more deeply and gaining more hands-on experience. I will also improve my ability to use technical tools and document my learning clearly.
 
 ---
 
