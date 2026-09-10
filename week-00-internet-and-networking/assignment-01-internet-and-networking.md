@@ -210,67 +210,42 @@ P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pr
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/gthX9qfe
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-🚀 DevOps Micro Internship (DMI) With Agentic AI — Cohort #3 — Week 0 [Getting Started]
+🚀 DevOps Micro Internship (DMI) With Agentic AI — Campus — Week 0 
 
-
-
-I am thrilled to begin my DevOps Micro Internship (DMI) with Agentic AI — Cohort #3, and I am looking forward to learning fundamentals about Internet, networking, application architecture, and development environment setup this week!
-
-
+I am thrilled to begin my DevOps Micro Internship (DMI) with Agentic AI — Campus, and I am looking forward to learning fundamentals about Internet, networking, application architecture, and development environment setup this week!
 
 🤖 ChatGPT
 
-
-
 I learned how to frame my request to ChatGPT to get the desired information. I learned that it is important to give a clear description of my request, specify what types of explanation/ examples are needed, and what format the response should be provided in.
-
-
 
 🌐 Internet & Networking
 
-
-
 I learned about packet switching, IP Addresses, TCP/IP, and HTTP/HTTPS (Hyper Text Transfer Protocol Secure). I learned that data is packet-switched over the internet using IP (Internet Protocol) addresses which can be IPv4 or IPv6. The data packets are broken down using the TCP (Transmission Control Protocol) and the packets are reassembled at their destination using IP addresses. The packets are then passed from one browser to the web server using HTTP/HTTPS (the secure version of HTTP). I learned that web browsers and web servers communicate over the HTTP/HTTPS protocol where Hypertext Markup Language (HTML) is transferred.
-
-
 
 🏗️ App Architecture
 
-
-
 I learned about two-tier and three-tier application architecture. The two-tier application connects directly to the database while the three-tier application connects through the front-end and back-end. The three-tier application is also easier to maintain and manage
-
-
 
 🌍 DNS
 
-
-
 I learned about Domain Name System (DNS) and how domain names resolve to IP Addresses. For Example, the A record epicreads.com resolves to an IPv4 address 52.172.142.222.
-
-
 
 💻 VS Code Setup
 
-
-
 I learned how to set up the development environment (VS Code).
-
-
 
 This week provided me with a basic knowledge of how the application connects with the Internet and how they are set up. I look forward to learning more and enhancing my DevOps skills. 🚀
 
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://lnkd.in/g2Hn3Kqf · Start your DevOps journey: https://lnkd.in/gTK9k9zW
 
-
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort #3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-
-
+#DMI #Internship #ComputerNetworks
 ---
 
 # Reflection – Week 0
@@ -312,4 +287,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) Campus — Agentic AI Track*

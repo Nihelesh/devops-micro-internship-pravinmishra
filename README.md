@@ -1,6 +1,5 @@
 # DevOps Micro Internship with Agentic AI — My Journey
 
-![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
 ![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
 ![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F14-green?style=for-the-badge)
@@ -13,7 +12,7 @@
 | **LinkedIn** | [Nihelesh](www.linkedin.com/in/niheleshmu) |
 | **Location** | Tamil Nadu, India |
 | **Background** | Computer Science and Engineering student |
-| **Goal** | Become profession Sofware Development Engineer |
+| **Goal** | Become Sofware Development Engineer |
 
 ---
 
@@ -44,7 +43,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **#__** <!-- Update this each week -->
+> 🥇 Campus Rank: **#__** <!-- Update this each week -->
 
 ---
 
@@ -125,7 +124,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | 🔄 In Progres | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | ✅ Completed | — |
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
