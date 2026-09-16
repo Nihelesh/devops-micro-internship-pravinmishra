@@ -1,6 +1,6 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I belive that I have the ability to achieve anything in my life, whether it is money, career, health or success. If you fully focused on that particular task and believe that I would be able to do it then definitely I can achieve anything in life. So, belief on themselves matters.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Enjoy what you are doing at the moment will help you remember it and won't go away from memory.
 
 ### Evidence from my life
 
-Add your answer here...
+When I study a topics with focus and concentration I am able to remember it other I will forgot.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Gain in-depth knowledge with good foundations in a particular topic.
 
 ### Evidence from my life
 
-Add your answer here...
+Just knowing what it does this is not important. For example, if I am learning springboot, first I need ti understand java, springboot basics and build projects on that which will help me get expertise on that particular topic.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Fortune favors the brave and luck matters.
 
 ### Evidence from my life
 
-Add your answer here...
+If I need something then wihout overthinking too much I should be able to take bold decision and in that cases luch will favour them. 
 
 ---
 
@@ -135,7 +135,7 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+I am a confident and an independent man. I achieved financial inpendence and I and happy with life. I am a millionaire. I built very important projects. I am a Senior Enginor and worked on multiple projects.
 
 ### Public Link
 
@@ -167,7 +167,7 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes: No
 
 **What emotion did you feel?** (minimum 50–100 words)
 
@@ -199,16 +199,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits - James Clear
+2. The Psychology of Money - Morgan Housel
+3. The Greatest Secret - Rhona Byrne
+4. Though Rules - Rhona Byrne
+5. Think and Grow Rich - Napoleon Hill
+6. How to Win Friends and Influence People - Dale Carnegie
+7. The 5 AM Club - Robin Sharma
+8. The 7 Habits of Highly Effective People - Stephen R. Covey
+9. The Power of Now - Eckhart Tolle
+10. Mindset - Mindset
 
 ---
 
@@ -237,16 +237,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Sleep hours
+* Spending tracker
+* Projects shipped / documented
+* Learning hours per week
+* Time spent with family & friends
+* Outdoor games / travel
 
 ---
 
@@ -290,7 +286,8 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon–Thu: 60 min deep work
+Sun: Weekly review
 
 ---
 
@@ -298,11 +295,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon, Tue - 60 Minutes
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2
 
 ---
 
@@ -316,7 +313,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+No social media
 
 ---
 
@@ -324,15 +321,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I am a confident person and I strong believe in my abilities.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I should be bold and take more risks in my life.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will do my project daily from 8 - 9. 
 
 ### LinkedIn Post
 
