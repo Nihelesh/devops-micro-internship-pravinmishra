@@ -342,7 +342,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : [blog](https://medium.com/@niheleshmu/building-my-mindset-os-what-i-learned-from-dmi-week-1-d102610f5011)  
 
 ---
 
@@ -365,4 +365,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) Campus — Agentic AI Track*
