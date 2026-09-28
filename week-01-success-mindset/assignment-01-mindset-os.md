@@ -139,9 +139,8 @@ I am a confident and an independent man. I achieved financial inpendence and I a
 
 ### Public Link
 
-Paste your link here:
 
-`Add your URL here`
+[blog](https://medium.com/@niheleshmu/building-my-mindset-os-what-i-learned-from-dmi-week-1-d102610f5011)
 
 ---
 
@@ -173,7 +172,7 @@ If Yes: No
 
 ## Answer
 
-Add your answer here...
+No
 
 ---
 
@@ -268,7 +267,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes, I have done it.
 
 ---
 
@@ -333,15 +332,14 @@ I will do my project daily from 8 - 9.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
 
-`Add your URL here`
+[linkedin](https://www.linkedin.com/posts/niheleshmu_dmi-devops-micro-internship-with-agentic-activity-7508221012686274560-qpOR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAES6sjcBuAeD1zQPhw4qjpJx5QFQWiY4KXs)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: [linkedin](https://www.linkedin.com/posts/niheleshmu_dmi-devops-micro-internship-with-agentic-activity-7508221012686274560-qpOR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAES6sjcBuAeD1zQPhw4qjpJx5QFQWiY4KXs)
 - Blog / Medium : [blog](https://medium.com/@niheleshmu/building-my-mindset-os-what-i-learned-from-dmi-week-1-d102610f5011)  
 
 ---

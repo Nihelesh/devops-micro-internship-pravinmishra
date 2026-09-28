@@ -210,7 +210,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pr
 Paste your LinkedIn post URL here:
 
 ```text
-https://lnkd.in/p/gthX9qfe
+https://www.linkedin.com/posts/niheleshmu_dmi-devops-micro-internship-with-agentic-activity-7503502066292535296-UmlA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAES6sjcBuAeD1zQPhw4qjpJx5QFQWiY4KXs
 ```
 
 ---

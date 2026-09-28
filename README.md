@@ -124,8 +124,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/gAiFCCqG | https://medium.com/@niheleshmu/my-first-step-into-devops-dmi-week-0-internet-networking-8ed126c0331b |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/gAiFCCqG | https://medium.com/@niheleshmu/building-my-mindset-os-what-i-learned-from-dmi-week-1-d102610f5011 |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/niheleshmu_dmi-devops-micro-internship-with-agentic-activity-7503502066292535296-UmlA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAES6sjcBuAeD1zQPhw4qjpJx5QFQWiY4KXs | https://medium.com/@niheleshmu/my-first-step-into-devops-dmi-week-0-internet-networking-8ed126c0331b |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/niheleshmu_dmi-devops-micro-internship-with-agentic-activity-7508221012686274560-qpOR?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAES6sjcBuAeD1zQPhw4qjpJx5QFQWiY4KXs | https://medium.com/@niheleshmu/building-my-mindset-os-what-i-learned-from-dmi-week-1-d102610f5011 |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
